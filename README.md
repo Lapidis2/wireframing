@@ -24,3 +24,14 @@ Functionality represents interactive components and features such as buttons, fo
 **Example:** Including a search bar in the top-right corner helps users quickly find specific information without navigating through menus.
 
 By focusing on these elements, wireframes help designers and developers create intuitive, user-friendly interfaces before moving on to detailed design and development.
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes  
+Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design. They are quick to create and easy to modify, making them ideal for early-stage brainstorming and feedback.
+
+### High-Fidelity Wireframes  
+More detailed and refined versions, often closer to the final design. They include specific layout and design elements such as spacing, typography, and sometimes basic interactivity, providing a clearer vision of the end product.
+
+## in figme given the types of wireframing present is
+* Low fidelity wireframe as it use simple designs and styles without detailed design.

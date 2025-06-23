@@ -35,3 +35,9 @@ More detailed and refined versions, often closer to the final design. They inclu
 
 ## in figme given the types of wireframing present is
 * Low fidelity wireframe as it use simple designs and styles without detailed design.
+## Wireframing Tools
+### Recommended Tool: Figma
+
+**Figma** is a cloud-based design tool ideal for wireframing and UI/UX design. It allows real-time collaboration, supports both low- and high-fidelity wireframes, and requires no installation. With its intuitive interface and built-in prototyping features, Figma makes it easy to design, share, and iterate on wireframes efficiently.
+
+

@@ -57,4 +57,19 @@ By incorporating wireframes early in the development cycle, teams can build bett
 Wireframes help align the team's vision by outlining the layout, functionality, and flow of a product early in the design process. For example, in our [Figma wireframe project](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f), clear placement of navigation, filters, and booking sections helps designers
 and developers understand the user journey. This shared visual reference improves collaboration, reduces misunderstandings, and speeds up decision-making.
 
+## Wireframing in Practice
+
+### Real-World Scenario:
+In the early stages of designing the [Project Airbnb](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) interface, wireframes revealed a usability issue: users had difficulty locating the booking button due to its placement below the fold on smaller screens. During the wireframing phase, this issue was identified through team reviews and user walkthroughs.
+
+### Resolution:
+The design team repositioned the booking button higher on the page and made it more visually prominent. This adjustment improved the visibility of key actions and streamlined the user journey.
+
+### Impact:
+Because the issue was caught during the wireframing phase—before any development began—it saved time, avoided costly rework, and improved the overall user experience.
+
+### Conclusion:
+Wireframing plays a critical role in identifying usability issues early, aligning teams, and ensuring the final product is intuitive and user-friendly. It acts as a blueprint that reduces risk, enhances collaboration, and leads to more effective design decisions.
+
+
 
